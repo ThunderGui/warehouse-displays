@@ -1,0 +1,166 @@
+{
+  "shelf": "A1",
+  "parts": [
+    {
+      "bin": "A01-A-01",
+      "qty": 0.0,
+      "description": "WVT-512 TPU BELT  W: 100 OPEN",
+      "part_class": "BELT",
+      "ref": "2233-AW-LM-S"
+    },
+    {
+      "bin": "A01-A-01",
+      "qty": 4.0,
+      "description": "PULLEY Assy tension PULLEY \u00f875 EL= 562MM",
+      "part_class": "PULLEY",
+      "ref": "012632-962-00646"
+    },
+    {
+      "bin": "A01-A-02",
+      "qty": 7.0,
+      "description": "PULLEY ETU PULLEY \u00c3\u00b875 crowned heavy L=544",
+      "part_class": "PULLEY",
+      "ref": "012632-950-00544"
+    },
+    {
+      "bin": "A01-B-01",
+      "qty": 3.0,
+      "description": "PULLEY Assy \u00c3\u00b872 Snubber PULLEY, EL= 660mm",
+      "part_class": "PULLEY",
+      "ref": "012632-506-00660"
+    },
+    {
+      "bin": "A01-B-02",
+      "qty": 3.0,
+      "description": "Assy Tension Pulley \u00f875",
+      "part_class": "PULLEY",
+      "ref": "013164-351-00646"
+    },
+    {
+      "bin": "A01-B-03",
+      "qty": 2.0,
+      "description": "ROLLER 50 CONICAL 420 AS11",
+      "part_class": "ROLLER",
+      "ref": "00457550"
+    },
+    {
+      "bin": "A01-B-04",
+      "qty": 8.0,
+      "description": "ROLLER, 50X1.5 KL EL=476 IG.M8",
+      "part_class": "ROLLER",
+      "ref": "00277338"
+    },
+    {
+      "bin": "A01-C-01",
+      "qty": 5.0,
+      "description": "Straight Drive Roller PM500FE-90",
+      "part_class": "ROLLER",
+      "ref": "013064-973-10560"
+    },
+    {
+      "bin": "A01-C-02",
+      "qty": 7.0,
+      "description": "Straight Drive Roller PM500FE0600421",
+      "part_class": "ROLLER",
+      "ref": "013064-917-00460"
+    },
+    {
+      "bin": "A01-C-03",
+      "qty": 12.0,
+      "description": "Straight Drive Roller PM500FE-90",
+      "part_class": "ROLLER",
+      "ref": "013064-973-00490"
+    },
+    {
+      "bin": "A01-C-04",
+      "qty": 5.0,
+      "description": "ROLLER, 50X1.5 KL EL=572 IG.M8",
+      "part_class": "ROLLER",
+      "ref": "00452868"
+    },
+    {
+      "bin": "A01-D-01",
+      "qty": 8.0,
+      "description": "Straight Drive Roller PM500FE0600521",
+      "part_class": "ROLLER",
+      "ref": "013064-917-00560"
+    },
+    {
+      "bin": "A01-D-02",
+      "qty": 5.0,
+      "description": "Motor roller 24V, with PolyV-head, PM500FE0550491",
+      "part_class": "ROLLER",
+      "ref": "005301-00310"
+    },
+    {
+      "bin": "A01-D-03",
+      "qty": 3.0,
+      "description": "SLAVE ROLLER POLY-V BELT, EL= 491mm,",
+      "part_class": "ROLLER",
+      "ref": "012632-958-00491"
+    },
+    {
+      "bin": "A01-E-01",
+      "qty": 7.0,
+      "description": "Driveroller 24V, mit PolyV-Kopf, PM500FE0550541",
+      "part_class": "ROLLER",
+      "ref": "005301-00309"
+    },
+    {
+      "bin": "A01-E-02",
+      "qty": 2.0,
+      "description": "KDR 50 CONICAL 420 M8/AS11",
+      "part_class": "ROLLER",
+      "ref": "00433387"
+    },
+    {
+      "bin": "A01-E-03",
+      "qty": 9.0,
+      "description": "Motorrolle 24V, ballig 50E, PM500FE0550519X",
+      "part_class": "ROLLER",
+      "ref": "005301-00307"
+    },
+    {
+      "bin": "A01-E-04",
+      "qty": 1.0,
+      "description": "Assy Drive Pulley \u00c3\u00b875 EL= 622MM",
+      "part_class": "PULLEY",
+      "ref": "012632-540-00622"
+    },
+    {
+      "bin": "A01-F-01",
+      "qty": 2.0,
+      "description": "Straight Drive Roller PM500FE-60",
+      "part_class": "ROLLER",
+      "ref": "013064-917-10460"
+    },
+    {
+      "bin": "A01-F-02",
+      "qty": 2.0,
+      "description": "Drive pulley \u00c3\u00b868",
+      "part_class": "PULLEY",
+      "ref": "013064-114-00665"
+    },
+    {
+      "bin": "A01-F-03",
+      "qty": 9.0,
+      "description": "PULLEY \u00f862.5 L=559",
+      "part_class": "PULLEY",
+      "ref": "013064-387-00559"
+    },
+    {
+      "bin": "A01-G-01",
+      "qty": 2.0,
+      "description": "Tapered Slave Roller Poly-V",
+      "part_class": "ROLLER",
+      "ref": "009249-485-00458"
+    },
+    {
+      "bin": "A01-G-02",
+      "qty": 4.0,
+      "description": "TAPERED POWER ROLLER",
+      "part_class": "ROLLER",
+      "ref": "013064-972-00560"
+    }
+  ]
+}
