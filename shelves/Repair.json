@@ -1,0 +1,82 @@
+{
+  "shelf": "Repair",
+  "parts": [
+    {
+      "bin": "R01-A-01",
+      "qty": 17.0,
+      "description": "FRU-GEARMOTOR TURNTABLE DU-G",
+      "part_class": "GEARMTR",
+      "ref": "310-00083-FRU"
+    },
+    {
+      "bin": "R01-B-01",
+      "qty": 6.0,
+      "description": "FRU-MOLEX CONTROLLER BACK PLANE ASSY",
+      "part_class": "ASSEMBLY",
+      "ref": "600-00647-FRU"
+    },
+    {
+      "bin": "R01-B-02",
+      "qty": 2.0,
+      "description": "E-STOP KIT, NIKE UNIV",
+      "part_class": "KIT",
+      "ref": "600-01296"
+    },
+    {
+      "bin": "R01-C-01",
+      "qty": 7.0,
+      "description": "VSD Main Logic Board Assembly, W/LEVER",
+      "part_class": "ASSEMBLY",
+      "ref": "600-00747-FRU"
+    },
+    {
+      "bin": "R01-D-01",
+      "qty": 12.0,
+      "description": "OBSTACLE DETECTION MODULE, 600-00374",
+      "part_class": "MODULE",
+      "ref": "600-00374-FRU"
+    },
+    {
+      "bin": "R01-E-01",
+      "qty": 3.0,
+      "description": "FLOOR FIDUCIAL, G/S/R, ROLL 1000 (FOR EACH USE 126",
+      "part_class": "FIDUCIAL",
+      "ref": "730-270-00550"
+    },
+    {
+      "bin": "R01-E-02",
+      "qty": 2250.0,
+      "description": "FLOOR FIDUCIAL COVER, 90X90, G",
+      "part_class": "FIDUCIAL",
+      "ref": "270-01192"
+    },
+    {
+      "bin": "R01-E-03",
+      "qty": 28.0,
+      "description": "SOCKET CHARGE CONN POWERBUD W JUMPER",
+      "part_class": "CONNECT",
+      "ref": "130-00795"
+    },
+    {
+      "bin": "R01-E-04",
+      "qty": 2.0,
+      "description": "CABLE CAT5E 1.0M SHIELDED 210-00442",
+      "part_class": "CABLE",
+      "ref": "210-00442"
+    },
+    {
+      "bin": "R01-E-05",
+      "qty": 78.0,
+      "description": "Ball bearing 750dia 290-0021",
+      "part_class": "BEARING",
+      "ref": "290-0021"
+    },
+    {
+      "bin": "R01-E-06",
+      "qty": 3.0,
+      "description": "PWRSUPLY  Power supply 230Vac/24Vdc-2.5A STEP-PS/1",
+      "part_class": "PWRSUPLY",
+      "ref": "190-00484"
+    }
+  ]
+}
