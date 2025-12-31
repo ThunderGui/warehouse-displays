@@ -1,0 +1,327 @@
+{
+  "shelf": "Mezzanine",
+  "parts": [
+    {
+      "bin": "M01-A-01",
+      "qty": 4.0,
+      "description": "LOOSE PACKING ABSORBENT",
+      "part_class": "CLEANER",
+      "ref": "220-00068"
+    },
+    {
+      "bin": "M01-A-09",
+      "qty": 14.0,
+      "description": "RETROFIT KIT, GEN2 RICOH PROJ",
+      "part_class": "KIT",
+      "ref": "690-02693"
+    },
+    {
+      "bin": "M01-A-10-1",
+      "qty": 2.0,
+      "description": "Power Rail 380-0040",
+      "part_class": "RAIL",
+      "ref": "380-0040"
+    },
+    {
+      "bin": "M01-A-10-2",
+      "qty": 5.0,
+      "description": "LIGHT CURT 2025MM FIELD TX WITH FRU PKG",
+      "part_class": "SENSOR",
+      "ref": "730-300-00250"
+    },
+    {
+      "bin": "M01-A-10-3",
+      "qty": 2.0,
+      "description": "LIGHT CURT 2025MM FIELD RX WITH FRU PKG",
+      "part_class": "SENSOR",
+      "ref": "730-300-00251"
+    },
+    {
+      "bin": "M01-A-10-4",
+      "qty": 460.0,
+      "description": "RACKLIGHT RAIL COVER",
+      "part_class": "COVER",
+      "ref": "380-0052"
+    },
+    {
+      "bin": "M01-A-11-4",
+      "qty": 18.0,
+      "description": "(190-01289) LIGHT BAR, POE+, ADJUSTABLE",
+      "part_class": "LIGHT",
+      "ref": "190-01289"
+    },
+    {
+      "bin": "M01-A-01",
+      "qty": 6.0,
+      "description": "EOL PART PACKAGE Legi-Air 6000-35-RH-ZE513-SES810R",
+      "part_class": "ASSEMBLY",
+      "ref": "40157150"
+    },
+    {
+      "bin": "M01-A-01",
+      "qty": 4.0,
+      "description": "EOL PART PACKAGE Legi-Air 6000-35-LH-ZE513-SES810R",
+      "part_class": "ASSEMBLY",
+      "ref": "40157151"
+    },
+    {
+      "bin": "M01-A-01",
+      "qty": 24.0,
+      "description": "Pre Filter Kit Carrier M5-7588972-AMZ",
+      "part_class": "FILTER",
+      "ref": "7588972"
+    },
+    {
+      "bin": "M01-A-02",
+      "qty": 2.0,
+      "description": "SOCKET FRONT/BEHIND 1200X200",
+      "part_class": "SOCKET",
+      "ref": "00597975"
+    },
+    {
+      "bin": "M01-A-03",
+      "qty": 105.0,
+      "description": "Belt edge holder (bottom) for TS 1600",
+      "part_class": "ROLLER",
+      "ref": "008200-00963"
+    },
+    {
+      "bin": "M01-A-03",
+      "qty": 104.0,
+      "description": "Belt edge holder top for TS 1600",
+      "part_class": "ROLLER",
+      "ref": "008200-00959"
+    },
+    {
+      "bin": "M01-A-03",
+      "qty": 1100.0,
+      "description": "Locking part for belt edge holder TS 1600 grey",
+      "part_class": "ROLLER",
+      "ref": "008200-00952"
+    },
+    {
+      "bin": "M01-A-03",
+      "qty": 5.0,
+      "description": "INVERTER 24/230V-550",
+      "part_class": "INVERTER",
+      "ref": "98.77288.00-0000"
+    },
+    {
+      "bin": "M01-A-04",
+      "qty": 2.0,
+      "description": "ASSY CARRIER",
+      "part_class": "ASSEMBLY",
+      "ref": "013160-307-00001"
+    },
+    {
+      "bin": "M01-A-05",
+      "qty": 49.0,
+      "description": "Carrying roller \u00d8 50x1,5, Galv., EL360 Easy runnin",
+      "part_class": "ROLLER",
+      "ref": "008200-26668"
+    },
+    {
+      "bin": "M01-A-06",
+      "qty": 3.0,
+      "description": "STEEL CHAIN TPL 1 RC - SVo (1 Box = 5m - Purchase ",
+      "part_class": "CHAIN",
+      "ref": "008200-36299"
+    },
+    {
+      "bin": "M01-A-07",
+      "qty": 2.0,
+      "description": "Rubber block chains C33/50 SET",
+      "part_class": "CHAIN",
+      "ref": "008200-26502"
+    },
+    {
+      "bin": "M01-A-07",
+      "qty": 8.0,
+      "description": "Rubber block chain SV C33/50 L=10164 C=4X2541 B=69",
+      "part_class": "CHAIN",
+      "ref": "00167971"
+    },
+    {
+      "bin": "M01-A-07",
+      "qty": 150.0,
+      "description": "MECH  Clamp sleeve \u00d808/12x10 1.4310, old=1008-0000",
+      "part_class": "MECH",
+      "ref": "008200-56308"
+    },
+    {
+      "bin": "M01-A-07",
+      "qty": 50.0,
+      "description": "CHAIN BUSHING 33/50",
+      "part_class": "BUSHING",
+      "ref": "33/50BUSH"
+    },
+    {
+      "bin": "M01-A-08",
+      "qty": 692.0,
+      "description": "WHEEL \u00d8100x25 convex",
+      "part_class": "WHEEL",
+      "ref": "013491-653-00001"
+    },
+    {
+      "bin": "M01-A-11-1",
+      "qty": 20.0,
+      "description": "Sheet underguarding 458 x 1500mm conveyor W=520mm",
+      "part_class": "GUARD",
+      "ref": "012632-997-00520"
+    },
+    {
+      "bin": "M01-A-11-2",
+      "qty": 2.0,
+      "description": "POWER TRACK WITH COPPER L=3285",
+      "part_class": "POWER",
+      "ref": "00441015"
+    },
+    {
+      "bin": "M01-A-11-3",
+      "qty": 4.0,
+      "description": "Guardrail box profile",
+      "part_class": "MECH",
+      "ref": "0L1109-12998B5A"
+    },
+    {
+      "bin": "M01-A-12-2",
+      "qty": 100.0,
+      "description": "Belt Roll - LGAdh (Longitudinal Groove Adessive) L",
+      "part_class": "BELT",
+      "ref": "00416864"
+    },
+    {
+      "bin": "M01-A-12-3",
+      "qty": 150.0,
+      "description": "Belt E8/2 U0/V5H MT black W=900 straight cut",
+      "part_class": "BELT",
+      "ref": "19264"
+    },
+    {
+      "bin": "M01-A-13-1",
+      "qty": 100.0,
+      "description": "Belt Flexam EX 10/2 0+A32 black AS W=700 straight ",
+      "part_class": "BELT",
+      "ref": "118118"
+    },
+    {
+      "bin": "M01-A-13-2",
+      "qty": 62.0,
+      "description": "BELT, CONVEYOR: GREY BW=760MM OPEN",
+      "part_class": "BELT",
+      "ref": "00339658"
+    },
+    {
+      "bin": "M01-A-13-2",
+      "qty": 67.3,
+      "description": "BELT E12/2 U0/V/U0 ANTHRACITE W=700",
+      "part_class": "BELT",
+      "ref": "118107"
+    },
+    {
+      "bin": "M01-A-13-3",
+      "qty": 38.6,
+      "description": "Belt E12/2 U0/V/U0 anthracite W=700 straight cut",
+      "part_class": "BELT",
+      "ref": "118107"
+    },
+    {
+      "bin": "M01-A-14",
+      "qty": 9.0,
+      "description": "Segmented Transfer Plates TGB-1.75 44-1 .75-36 914",
+      "part_class": "PLATE",
+      "ref": "1754417536914"
+    },
+    {
+      "bin": "M01-A-14",
+      "qty": 1.0,
+      "description": "Segmented Transfer Plates TGB-4 102-2 2-24 610",
+      "part_class": "PLATE",
+      "ref": "41022224610"
+    },
+    {
+      "bin": "M01-A-14",
+      "qty": 4.0,
+      "description": "Segmented Transfer Plates TGB-2 51-1 1-36 914",
+      "part_class": "PLATE",
+      "ref": "2511136914"
+    },
+    {
+      "bin": "M01-A-14",
+      "qty": 1.0,
+      "description": "Segmented Transfer Plates TGB-2.5 64-1.5 1-36 914",
+      "part_class": "PLATE",
+      "ref": "256415136914"
+    },
+    {
+      "bin": "M01-A-14",
+      "qty": 1.0,
+      "description": "Segmented Transfer Plates TGB-2.25 57-1.5 .75-36 9",
+      "part_class": "PLATE",
+      "ref": "22557157536914"
+    },
+    {
+      "bin": "M01-A-14",
+      "qty": 7.0,
+      "description": "Segmented Transfer Plates TGB-1.5 38-.75 .75-24 61",
+      "part_class": "PLATE",
+      "ref": "1538757524610"
+    },
+    {
+      "bin": "M01-A-14",
+      "qty": 1.0,
+      "description": "Segmented Transfer Plates TGB-1.75 44-1 .75-24 610",
+      "part_class": "PLATE",
+      "ref": "1754417524610"
+    },
+    {
+      "bin": "M01-A-15",
+      "qty": 20.0,
+      "description": "PULLEY \u00f862.5, L= 459mm",
+      "part_class": "PULLEY",
+      "ref": "013064-387-00459"
+    },
+    {
+      "bin": "M01-A-15",
+      "qty": 6.0,
+      "description": "ASSY ETU PULLEY 75 STX.M EL= 593MM",
+      "part_class": "ROLLER",
+      "ref": "014513-056-10450"
+    },
+    {
+      "bin": "M01-A-16",
+      "qty": 40.0,
+      "description": "Bearing Wheel \u00f885 incl bearings HTH \u00f885x110/25-110",
+      "part_class": "BEARING",
+      "ref": "000771-00086"
+    },
+    {
+      "bin": "M01-A-17",
+      "qty": 2.0,
+      "description": "ELEC UPS - APC SMART 1500VA SUA1500I",
+      "part_class": "ELEC",
+      "ref": "000000-01482"
+    },
+    {
+      "bin": "M01-A-18",
+      "qty": 2.0,
+      "description": "ELEC Cooling unit 230V 1000W SK3304.500",
+      "part_class": "ELEC",
+      "ref": "006003-02807"
+    },
+    {
+      "bin": "M01-A-19",
+      "qty": 35.0,
+      "description": "Spare filter mat, SK 3173.100",
+      "part_class": "FILTER",
+      "ref": "008200-04781"
+    },
+    {
+      "bin": "M01-B-13-3",
+      "qty": 2.0,
+      "description": "MECHANICAL BELT WRAP ASSEMBLY",
+      "part_class": "BELT",
+      "ref": "400462"
+    }
+  ]
+}
