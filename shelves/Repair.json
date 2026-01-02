@@ -2,7 +2,6 @@
   "shelf": "Repair",
   "parts": [
     {
-      "APN": "2068504",
       "bin": "R01-A-01",
       "qty": 17.0,
       "description": "FRU-GEARMOTOR TURNTABLE DU-G",
@@ -10,7 +9,6 @@
       "ref": "310-00083-FRU"
     },
     {
-      "APN": "2068498",
       "bin": "R01-B-01",
       "qty": 6.0,
       "description": "FRU-MOLEX CONTROLLER BACK PLANE ASSY",
@@ -18,7 +16,6 @@
       "ref": "600-00647-FRU"
     },
     {
-      "APN": "97184",
       "bin": "R01-B-02",
       "qty": 2.0,
       "description": "E-STOP KIT, NIKE UNIV",
@@ -26,7 +23,6 @@
       "ref": "600-01296"
     },
     {
-      "APN": "2067189",
       "bin": "R01-C-01",
       "qty": 7.0,
       "description": "VSD Main Logic Board Assembly, W/LEVER",
@@ -34,7 +30,6 @@
       "ref": "600-00747-FRU"
     },
     {
-      "APN": "41532",
       "bin": "R01-D-01",
       "qty": 12.0,
       "description": "OBSTACLE DETECTION MODULE, 600-00374",
@@ -42,7 +37,6 @@
       "ref": "600-00374-FRU"
     },
     {
-      "APN": "2111119",
       "bin": "R01-E-01",
       "qty": 3.0,
       "description": "FLOOR FIDUCIAL, G/S/R, ROLL 1000 (FOR EACH USE 126",
@@ -50,7 +44,6 @@
       "ref": "730-270-00550"
     },
     {
-      "APN": "48403",
       "bin": "R01-E-02",
       "qty": 2250.0,
       "description": "FLOOR FIDUCIAL COVER, 90X90, G",
@@ -58,7 +51,6 @@
       "ref": "270-01192"
     },
     {
-      "APN": "2068424",
       "bin": "R01-E-03",
       "qty": 28.0,
       "description": "SOCKET CHARGE CONN POWERBUD W JUMPER",
@@ -66,7 +58,6 @@
       "ref": "130-00795"
     },
     {
-      "APN": "N25760",
       "bin": "R01-E-04",
       "qty": 2.0,
       "description": "CABLE CAT5E 1.0M SHIELDED 210-00442",
@@ -74,7 +65,6 @@
       "ref": "210-00442"
     },
     {
-      "APN": "41515",
       "bin": "R01-E-05",
       "qty": 78.0,
       "description": "Ball bearing 750dia 290-0021",
@@ -82,7 +72,6 @@
       "ref": "290-0021"
     },
     {
-      "APN": "56894",
       "bin": "R01-E-06",
       "qty": 3.0,
       "description": "PWRSUPLY  Power supply 230Vac/24Vdc-2.5A STEP-PS/1",
