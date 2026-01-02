@@ -2,7 +2,6 @@
   "shelf": "Mezzanine",
   "parts": [
     {
-      "APN": "82619",
       "bin": "M01-A-01",
       "qty": 4.0,
       "description": "LOOSE PACKING ABSORBENT",
@@ -10,7 +9,6 @@
       "ref": "220-00068"
     },
     {
-      "APN": "42145",
       "bin": "M01-A-09",
       "qty": 14.0,
       "description": "RETROFIT KIT, GEN2 RICOH PROJ",
@@ -18,7 +16,6 @@
       "ref": "690-02693"
     },
     {
-      "APN": "N10774",
       "bin": "M01-A-10-1",
       "qty": 2.0,
       "description": "Power Rail 380-0040",
@@ -26,7 +23,6 @@
       "ref": "380-0040"
     },
     {
-      "APN": "122191",
       "bin": "M01-A-10-2",
       "qty": 5.0,
       "description": "LIGHT CURT 2025MM FIELD TX WITH FRU PKG",
@@ -34,7 +30,6 @@
       "ref": "730-300-00250"
     },
     {
-      "APN": "122192",
       "bin": "M01-A-10-3",
       "qty": 2.0,
       "description": "LIGHT CURT 2025MM FIELD RX WITH FRU PKG",
@@ -42,7 +37,6 @@
       "ref": "730-300-00251"
     },
     {
-      "APN": "2061000",
       "bin": "M01-A-10-4",
       "qty": 460.0,
       "description": "RACKLIGHT RAIL COVER",
@@ -50,7 +44,6 @@
       "ref": "380-0052"
     },
     {
-      "APN": "3020377",
       "bin": "M01-A-11-4",
       "qty": 18.0,
       "description": "(190-01289) LIGHT BAR, POE+, ADJUSTABLE",
@@ -58,7 +51,6 @@
       "ref": "190-01289"
     },
     {
-      "APN": "360360",
       "bin": "M01-A-01",
       "qty": 6.0,
       "description": "EOL PART PACKAGE Legi-Air 6000-35-RH-ZE513-SES810R",
@@ -66,7 +58,6 @@
       "ref": "40157150"
     },
     {
-      "APN": "360361",
       "bin": "M01-A-01",
       "qty": 4.0,
       "description": "EOL PART PACKAGE Legi-Air 6000-35-LH-ZE513-SES810R",
@@ -74,7 +65,6 @@
       "ref": "40157151"
     },
     {
-      "APN": "449430",
       "bin": "M01-A-01",
       "qty": 24.0,
       "description": "Pre Filter Kit Carrier M5-7588972-AMZ",
@@ -82,7 +72,6 @@
       "ref": "7588972"
     },
     {
-      "APN": "100690",
       "bin": "M01-A-02",
       "qty": 2.0,
       "description": "SOCKET FRONT/BEHIND 1200X200",
@@ -90,7 +79,6 @@
       "ref": "00597975"
     },
     {
-      "APN": "54600",
       "bin": "M01-A-03",
       "qty": 105.0,
       "description": "Belt edge holder (bottom) for TS 1600",
@@ -98,7 +86,6 @@
       "ref": "008200-00963"
     },
     {
-      "APN": "54715",
       "bin": "M01-A-03",
       "qty": 104.0,
       "description": "Belt edge holder top for TS 1600",
@@ -106,7 +93,6 @@
       "ref": "008200-00959"
     },
     {
-      "APN": "54823",
       "bin": "M01-A-03",
       "qty": 1100.0,
       "description": "Locking part for belt edge holder TS 1600 grey",
@@ -114,7 +100,6 @@
       "ref": "008200-00952"
     },
     {
-      "APN": "79525",
       "bin": "M01-A-03",
       "qty": 5.0,
       "description": "INVERTER 24/230V-550",
@@ -122,7 +107,6 @@
       "ref": "98.77288.00-0000"
     },
     {
-      "APN": "64199",
       "bin": "M01-A-04",
       "qty": 2.0,
       "description": "ASSY CARRIER",
@@ -130,7 +114,6 @@
       "ref": "013160-307-00001"
     },
     {
-      "APN": "N36813",
       "bin": "M01-A-05",
       "qty": 49.0,
       "description": "Carrying roller \u00d8 50x1,5, Galv., EL360 Easy runnin",
@@ -138,7 +121,6 @@
       "ref": "008200-26668"
     },
     {
-      "APN": "115584",
       "bin": "M01-A-06",
       "qty": 3.0,
       "description": "STEEL CHAIN TPL 1 RC - SVo (1 Box = 5m - Purchase ",
@@ -146,7 +128,6 @@
       "ref": "008200-36299"
     },
     {
-      "APN": "2043312",
       "bin": "M01-A-07",
       "qty": 2.0,
       "description": "Rubber block chains C33/50 SET",
@@ -154,7 +135,6 @@
       "ref": "008200-26502"
     },
     {
-      "APN": "440162",
       "bin": "M01-A-07",
       "qty": 8.0,
       "description": "Rubber block chain SV C33/50 L=10164 C=4X2541 B=69",
@@ -162,7 +142,6 @@
       "ref": "00167971"
     },
     {
-      "APN": "55952",
       "bin": "M01-A-07",
       "qty": 150.0,
       "description": "MECH  Clamp sleeve \u00d808/12x10 1.4310, old=1008-0000",
@@ -170,7 +149,6 @@
       "ref": "008200-56308"
     },
     {
-      "APN": "65180",
       "bin": "M01-A-07",
       "qty": 50.0,
       "description": "CHAIN BUSHING 33/50",
@@ -178,7 +156,6 @@
       "ref": "33/50BUSH"
     },
     {
-      "APN": "57709",
       "bin": "M01-A-08",
       "qty": 692.0,
       "description": "WHEEL \u00d8100x25 convex",
@@ -186,7 +163,6 @@
       "ref": "013491-653-00001"
     },
     {
-      "APN": "2042552",
       "bin": "M01-A-11-1",
       "qty": 20.0,
       "description": "Sheet underguarding 458 x 1500mm conveyor W=520mm",
@@ -194,7 +170,6 @@
       "ref": "012632-997-00520"
     },
     {
-      "APN": "84835",
       "bin": "M01-A-11-2",
       "qty": 2.0,
       "description": "POWER TRACK WITH COPPER L=3285",
@@ -202,7 +177,6 @@
       "ref": "00441015"
     },
     {
-      "APN": "3115077",
       "bin": "M01-A-11-3",
       "qty": 4.0,
       "description": "Guardrail box profile",
@@ -210,7 +184,6 @@
       "ref": "0L1109-12998B5A"
     },
     {
-      "APN": "104296",
       "bin": "M01-A-12-2",
       "qty": 100.0,
       "description": "Belt Roll - LGAdh (Longitudinal Groove Adessive) L",
@@ -218,7 +191,6 @@
       "ref": "00416864"
     },
     {
-      "APN": "168957",
       "bin": "M01-A-12-3",
       "qty": 150.0,
       "description": "Belt E8/2 U0/V5H MT black W=900 straight cut",
@@ -226,7 +198,6 @@
       "ref": "19264"
     },
     {
-      "APN": "168982",
       "bin": "M01-A-13-1",
       "qty": 100.0,
       "description": "Belt Flexam EX 10/2 0+A32 black AS W=700 straight ",
@@ -234,7 +205,6 @@
       "ref": "118118"
     },
     {
-      "APN": "119840",
       "bin": "M01-A-13-2",
       "qty": 62.0,
       "description": "BELT, CONVEYOR: GREY BW=760MM OPEN",
@@ -242,7 +212,6 @@
       "ref": "00339658"
     },
     {
-      "APN": "65807",
       "bin": "M01-A-13-2",
       "qty": 67.3,
       "description": "BELT E12/2 U0/V/U0 ANTHRACITE W=700",
@@ -250,7 +219,6 @@
       "ref": "118107"
     },
     {
-      "APN": "168927",
       "bin": "M01-A-13-3",
       "qty": 38.6,
       "description": "Belt E12/2 U0/V/U0 anthracite W=700 straight cut",
@@ -258,7 +226,6 @@
       "ref": "118107"
     },
     {
-      "APN": "3226285",
       "bin": "M01-A-14",
       "qty": 9.0,
       "description": "Segmented Transfer Plates TGB-1.75 44-1 .75-36 914",
@@ -266,7 +233,6 @@
       "ref": "1754417536914"
     },
     {
-      "APN": "3226286",
       "bin": "M01-A-14",
       "qty": 1.0,
       "description": "Segmented Transfer Plates TGB-4 102-2 2-24 610",
@@ -274,7 +240,6 @@
       "ref": "41022224610"
     },
     {
-      "APN": "3226287",
       "bin": "M01-A-14",
       "qty": 4.0,
       "description": "Segmented Transfer Plates TGB-2 51-1 1-36 914",
@@ -282,7 +247,6 @@
       "ref": "2511136914"
     },
     {
-      "APN": "3226288",
       "bin": "M01-A-14",
       "qty": 1.0,
       "description": "Segmented Transfer Plates TGB-2.5 64-1.5 1-36 914",
@@ -290,7 +254,6 @@
       "ref": "256415136914"
     },
     {
-      "APN": "3226289",
       "bin": "M01-A-14",
       "qty": 1.0,
       "description": "Segmented Transfer Plates TGB-2.25 57-1.5 .75-36 9",
@@ -298,7 +261,6 @@
       "ref": "22557157536914"
     },
     {
-      "APN": "3226290",
       "bin": "M01-A-14",
       "qty": 7.0,
       "description": "Segmented Transfer Plates TGB-1.5 38-.75 .75-24 61",
@@ -306,7 +268,6 @@
       "ref": "1538757524610"
     },
     {
-      "APN": "3226291",
       "bin": "M01-A-14",
       "qty": 1.0,
       "description": "Segmented Transfer Plates TGB-1.75 44-1 .75-24 610",
@@ -314,7 +275,6 @@
       "ref": "1754417524610"
     },
     {
-      "APN": "56691",
       "bin": "M01-A-15",
       "qty": 20.0,
       "description": "PULLEY \u00f862.5, L= 459mm",
@@ -322,7 +282,6 @@
       "ref": "013064-387-00459"
     },
     {
-      "APN": "63893",
       "bin": "M01-A-15",
       "qty": 6.0,
       "description": "ASSY ETU PULLEY 75 STX.M EL= 593MM",
@@ -330,7 +289,6 @@
       "ref": "014513-056-10450"
     },
     {
-      "APN": "54646",
       "bin": "M01-A-16",
       "qty": 40.0,
       "description": "Bearing Wheel \u00f885 incl bearings HTH \u00f885x110/25-110",
@@ -338,7 +296,6 @@
       "ref": "000771-00086"
     },
     {
-      "APN": "55753",
       "bin": "M01-A-17",
       "qty": 2.0,
       "description": "ELEC UPS - APC SMART 1500VA SUA1500I",
@@ -346,7 +303,6 @@
       "ref": "000000-01482"
     },
     {
-      "APN": "55341",
       "bin": "M01-A-18",
       "qty": 2.0,
       "description": "ELEC Cooling unit 230V 1000W SK3304.500",
@@ -354,7 +310,6 @@
       "ref": "006003-02807"
     },
     {
-      "APN": "80160",
       "bin": "M01-A-19",
       "qty": 35.0,
       "description": "Spare filter mat, SK 3173.100",
@@ -362,7 +317,6 @@
       "ref": "008200-04781"
     },
     {
-      "APN": "688392",
       "bin": "M01-B-13-3",
       "qty": 2.0,
       "description": "MECHANICAL BELT WRAP ASSEMBLY",
