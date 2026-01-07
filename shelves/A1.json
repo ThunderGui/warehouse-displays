@@ -2,165 +2,332 @@
   "shelf": "A1",
   "parts": [
     {
-      "bin": "A01-A-01",
-      "qty": 0.0,
-      "description": "WVT-512 TPU BELT  W: 100 OPEN",
+      "APN": "112424",
+      "bin": "A86-A-01",
+      "qty": 4.0,
+      "description": "SERIES FT 1000 XLG MODULAR BELT (L=1020) CODE 817.",
       "part_class": "BELT",
-      "ref": "2233-AW-LM-S"
+      "ref": "A00000002867"
     },
     {
-      "bin": "A01-A-01",
-      "qty": 4.0,
-      "description": "PULLEY Assy tension PULLEY \u00f875 EL= 562MM",
-      "part_class": "PULLEY",
-      "ref": "012632-962-00646"
-    },
-    {
-      "bin": "A01-A-02",
-      "qty": 7.0,
-      "description": "PULLEY ETU PULLEY \u00c3\u00b875 crowned heavy L=544",
-      "part_class": "PULLEY",
-      "ref": "012632-950-00544"
-    },
-    {
-      "bin": "A01-B-01",
-      "qty": 3.0,
-      "description": "PULLEY Assy \u00c3\u00b872 Snubber PULLEY, EL= 660mm",
-      "part_class": "PULLEY",
-      "ref": "012632-506-00660"
-    },
-    {
-      "bin": "A01-B-02",
-      "qty": 3.0,
-      "description": "Assy Tension Pulley \u00f875",
-      "part_class": "PULLEY",
-      "ref": "013164-351-00646"
-    },
-    {
-      "bin": "A01-B-03",
+      "APN": "92395",
+      "bin": "A86-A-02",
       "qty": 2.0,
-      "description": "ROLLER 50 CONICAL 420 AS11",
-      "part_class": "ROLLER",
-      "ref": "00457550"
+      "description": "PULLEY GF LEFT CPL. PRE-ASSEMBLED",
+      "part_class": "PULLEY",
+      "ref": "00452832"
     },
     {
-      "bin": "A01-B-04",
-      "qty": 8.0,
-      "description": "ROLLER, 50X1.5 KL EL=476 IG.M8",
-      "part_class": "ROLLER",
-      "ref": "00277338"
+      "APN": "112409",
+      "bin": "A86-B-01",
+      "qty": 35.0,
+      "description": "FLAT DOUBLE LINK ROLLER CHAIN ISO:12B-2 (3/4\") (CO",
+      "part_class": "CHAIN",
+      "ref": "A00000001408"
     },
     {
-      "bin": "A01-C-01",
-      "qty": 5.0,
-      "description": "Straight Drive Roller PM500FE-90",
-      "part_class": "ROLLER",
-      "ref": "013064-973-10560"
-    },
-    {
-      "bin": "A01-C-02",
-      "qty": 7.0,
-      "description": "Straight Drive Roller PM500FE0600421",
-      "part_class": "ROLLER",
-      "ref": "013064-917-00460"
-    },
-    {
-      "bin": "A01-C-03",
-      "qty": 12.0,
-      "description": "Straight Drive Roller PM500FE-90",
-      "part_class": "ROLLER",
-      "ref": "013064-973-00490"
-    },
-    {
-      "bin": "A01-C-04",
-      "qty": 5.0,
-      "description": "ROLLER, 50X1.5 KL EL=572 IG.M8",
-      "part_class": "ROLLER",
-      "ref": "00452868"
-    },
-    {
-      "bin": "A01-D-01",
-      "qty": 8.0,
-      "description": "Straight Drive Roller PM500FE0600521",
-      "part_class": "ROLLER",
-      "ref": "013064-917-00560"
-    },
-    {
-      "bin": "A01-D-02",
-      "qty": 5.0,
-      "description": "Motor roller 24V, with PolyV-head, PM500FE0550491",
-      "part_class": "ROLLER",
-      "ref": "005301-00310"
-    },
-    {
-      "bin": "A01-D-03",
-      "qty": 3.0,
-      "description": "SLAVE ROLLER POLY-V BELT, EL= 491mm,",
-      "part_class": "ROLLER",
-      "ref": "012632-958-00491"
-    },
-    {
-      "bin": "A01-E-01",
-      "qty": 7.0,
-      "description": "Driveroller 24V, mit PolyV-Kopf, PM500FE0550541",
-      "part_class": "ROLLER",
-      "ref": "005301-00309"
-    },
-    {
-      "bin": "A01-E-02",
+      "APN": "84822",
+      "bin": "A86-B-02",
       "qty": 2.0,
-      "description": "KDR 50 CONICAL 420 M8/AS11",
-      "part_class": "ROLLER",
-      "ref": "00433387"
+      "description": "SLAVECC",
+      "part_class": "ELECUNIT",
+      "ref": "00431481"
     },
     {
-      "bin": "A01-E-03",
-      "qty": 9.0,
-      "description": "Motorrolle 24V, ballig 50E, PM500FE0550519X",
-      "part_class": "ROLLER",
-      "ref": "005301-00307"
+      "APN": "112470",
+      "bin": "A86-C-01",
+      "qty": 2.0,
+      "description": "MUTING ARM- KIT,4 - ( 4 muting arms with photocell",
+      "part_class": "ARM",
+      "ref": "E00000004833"
     },
     {
-      "bin": "A01-E-04",
+      "APN": "112500",
+      "bin": "A86-C-02",
       "qty": 1.0,
-      "description": "Assy Drive Pulley \u00c3\u00b875 EL= 622MM",
-      "part_class": "PULLEY",
-      "ref": "012632-540-00622"
+      "description": "PANEL VIEW 1250 PLUS 7 COLORS ETERNET TOUCH 24 vdc",
+      "part_class": "PANEL",
+      "ref": "E00000002583"
     },
     {
-      "bin": "A01-F-01",
+      "APN": "100723",
+      "bin": "A86-C-03",
+      "qty": 1.0,
+      "description": "MONTAGEPLATTE 385X375",
+      "part_class": "PLATE",
+      "ref": "00602574"
+    },
+    {
+      "APN": "100735",
+      "bin": "A86-D-01",
+      "qty": 1.0,
+      "description": "KLEMMKASTEN 400X400X120",
+      "part_class": "MISC",
+      "ref": "00607841"
+    },
+    {
+      "APN": "63663",
+      "bin": "A86-D-02",
       "qty": 2.0,
-      "description": "Straight Drive Roller PM500FE-60",
+      "description": "POWER SUPPLY USV",
+      "part_class": "PWRSUPLY",
+      "ref": "00451578"
+    },
+    {
+      "APN": "2067571",
+      "bin": "A86-D-03",
+      "qty": 2.0,
+      "description": "SCHALTSCHRANK KABELSCHLAUCH",
+      "part_class": "MISC",
+      "ref": "00397710"
+    },
+    {
+      "APN": "84913",
+      "bin": "A86-D-04",
+      "qty": 3.0,
+      "description": "MASTERCC PROFINET",
+      "part_class": "CRCTBRD",
+      "ref": "00500437"
+    },
+    {
+      "APN": "84920",
+      "bin": "A86-E-01",
+      "qty": 8.0,
+      "description": "TIMING BELT PULLEY HTD 48 8M20 F. SPANNSATZ 25/30 ",
+      "part_class": "PULLEY",
+      "ref": "00508133"
+    },
+    {
+      "APN": "84922",
+      "bin": "A86-E-02",
+      "qty": 8.0,
+      "description": "TIMING BELT PULLEY HTD 48 8M30 F. SPANNSATZ 35 X 6",
+      "part_class": "PULLEY",
+      "ref": "00508135"
+    },
+    {
+      "APN": "81163",
+      "bin": "A86-E-03",
+      "qty": 54.0,
+      "description": "PRESSURE ROLLER D=30 STEEL",
       "part_class": "ROLLER",
-      "ref": "013064-917-10460"
+      "ref": "00083008"
     },
     {
-      "bin": "A01-F-02",
+      "APN": "64026",
+      "bin": "A86-E-04",
       "qty": 2.0,
-      "description": "Drive pulley \u00c3\u00b868",
+      "description": "TOOTH BELT PULLEY HTD 28 8M 30, D25 TAPER LOCK",
       "part_class": "PULLEY",
-      "ref": "013064-114-00665"
+      "ref": "00273760"
     },
     {
-      "bin": "A01-F-03",
+      "APN": "65439",
+      "bin": "A86-E-05",
+      "qty": 7.0,
+      "description": "BELT PULLEY 60 WITH AXLE",
+      "part_class": "PULLEY",
+      "ref": "00075218"
+    },
+    {
+      "APN": "2027562",
+      "bin": "A86-E-06",
+      "qty": 3.0,
+      "description": "Guide Rail Brackets",
+      "part_class": "BRACKET",
+      "ref": "00074259"
+    },
+    {
+      "APN": "93681",
+      "bin": "A86-E-07",
+      "qty": 3.0,
+      "description": "OLDHAM CLUTCH INSIDE V03",
+      "part_class": "CLUTCH",
+      "ref": "00461307"
+    },
+    {
+      "APN": "98455",
+      "bin": "A86-E-08",
+      "qty": 3.0,
+      "description": "TAG HOLDER3SU",
+      "part_class": "HOLDER",
+      "ref": "00602845"
+    },
+    {
+      "APN": "100722",
+      "bin": "A86-F-01",
+      "qty": 2.0,
+      "description": "KST.FLANSCHPLATTE",
+      "part_class": "MISC",
+      "ref": "00602558"
+    },
+    {
+      "APN": "731339",
+      "bin": "A86-F-02",
       "qty": 9.0,
-      "description": "PULLEY \u00f862.5 L=559",
-      "part_class": "PULLEY",
-      "ref": "013064-387-00559"
+      "description": "Side holder HLT  hldr_cplg_HLT_GF_rfcd_157_62_EG+",
+      "part_class": "BRACKET",
+      "ref": "00380790"
     },
     {
-      "bin": "A01-G-01",
+      "APN": "100714",
+      "bin": "A86-F-03",
+      "qty": 1.0,
+      "description": "FD-THRG.MOD.TERM.BLK_ST-16-TWI",
+      "part_class": "TERMINAL",
+      "ref": "00602409"
+    },
+    {
+      "APN": "100555",
+      "bin": "A86-F-04",
+      "qty": 3.0,
+      "description": "DOOR POSITION SWITCH",
+      "part_class": "SWITCH",
+      "ref": "00349513"
+    },
+    {
+      "APN": "100803",
+      "bin": "A86-F-05",
       "qty": 2.0,
-      "description": "Tapered Slave Roller Poly-V",
-      "part_class": "ROLLER",
-      "ref": "009249-485-00458"
+      "description": "ILLUMINATED PUSHBUTTON WHITE FLAT BUTTON - MATAL F",
+      "part_class": "BUTTON",
+      "ref": "00562157"
     },
     {
-      "bin": "A01-G-02",
+      "APN": "100653",
+      "bin": "A86-F-06",
+      "qty": 3.0,
+      "description": "EINBAURAHMEN 2-F TRANSPARENT",
+      "part_class": "MISC",
+      "ref": "00487685"
+    },
+    {
+      "APN": "65354",
+      "bin": "A86-F-07",
+      "qty": 10.0,
+      "description": "Clip bearing, MCM-06-02",
+      "part_class": "BEARING",
+      "ref": "00076364"
+    },
+    {
+      "APN": "63470",
+      "bin": "A86-F-08",
       "qty": 4.0,
-      "description": "TAPERED POWER ROLLER",
-      "part_class": "ROLLER",
-      "ref": "013064-972-00560"
+      "description": "SENSORMODULHOLDER",
+      "part_class": "SENSOR",
+      "ref": "00417723"
+    },
+    {
+      "APN": "91275",
+      "bin": "A86-G-01",
+      "qty": 2.0,
+      "description": "CC PROFIBUS BOARD",
+      "part_class": "BOARD",
+      "ref": "00417165"
+    },
+    {
+      "APN": "84818",
+      "bin": "A86-G-02",
+      "qty": 1.0,
+      "description": "PHOTO SENSOR (GL6-P0511S21) IN HOUSING (ON STALK)",
+      "part_class": "MODULE",
+      "ref": "00417724"
+    },
+    {
+      "APN": "84909",
+      "bin": "A86-G-03",
+      "qty": 1.0,
+      "description": "2X LB+BRACKET FR.PF. RIGID S05",
+      "part_class": "BRACKET",
+      "ref": "00489925"
+    },
+    {
+      "APN": "100567",
+      "bin": "A86-G-04",
+      "qty": 3.0,
+      "description": "DISTNACE PIECE",
+      "part_class": "MISC",
+      "ref": "00352997"
+    },
+    {
+      "APN": "67724",
+      "bin": "A86-G-05",
+      "qty": 4.0,
+      "description": "Auxiliary current switch P/AUT 1NA+1NO 5ST3010",
+      "part_class": "CRCTBRKR",
+      "ref": "008200-12498"
+    },
+    {
+      "APN": "100618",
+      "bin": "A86-G-06",
+      "qty": 3.0,
+      "description": "MESSW-.SCHALTSPERRE",
+      "part_class": "MISC",
+      "ref": "00391812"
+    },
+    {
+      "APN": "84828",
+      "bin": "A86-G-07",
+      "qty": 1.0,
+      "description": "MICRO-SD CARD, 128MB, INDUSTRIAL, SLC FLASH",
+      "part_class": "MEMORY",
+      "ref": "00433355"
+    },
+    {
+      "APN": "100802",
+      "bin": "A86-G-08",
+      "qty": 2.0,
+      "description": "ILLUMINATED PUSHBUTTON GREEN FLAT BUTTON",
+      "part_class": "BUTTON",
+      "ref": "00562155"
+    },
+    {
+      "APN": "96874",
+      "bin": "A86-H-01",
+      "qty": 2.0,
+      "description": "CABEL  PHOENIX-OPEN L=5000 CPL.",
+      "part_class": "CABLE",
+      "ref": "00515137"
+    },
+    {
+      "APN": "84825",
+      "bin": "A86-H-02",
+      "qty": 9.0,
+      "description": "TRANSM. WHEEL D32 CAMB. KCC V1",
+      "part_class": "CONVEYOR",
+      "ref": "00432930"
+    },
+    {
+      "APN": "63850",
+      "bin": "A86-H-03",
+      "qty": 7.0,
+      "description": "BRACKET, MOUNTING, LATERAL GUIDE FIXTURE",
+      "part_class": "BRACKET",
+      "ref": "00074258"
+    },
+    {
+      "APN": "2067590",
+      "bin": "A86-H-04",
+      "qty": 2.0,
+      "description": "F-RELAIS 6-POLIG 24V DC",
+      "part_class": "RELAY",
+      "ref": "00602597"
+    },
+    {
+      "APN": "84869",
+      "bin": "A86-H-05",
+      "qty": 3.0,
+      "description": "LB STOCKO F. FP CPL X=23 H= 21",
+      "part_class": "SENSOR",
+      "ref": "00457583"
+    },
+    {
+      "APN": "90650",
+      "bin": "A86-H-06",
+      "qty": 8.0,
+      "description": "CYL. UNIT ADN-25-15-A-P-A",
+      "part_class": "CYLINDER",
+      "ref": "00432622"
     }
   ]
 }
